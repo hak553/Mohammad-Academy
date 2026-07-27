@@ -72,6 +72,10 @@
         <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" />
       </a>
       &nbsp;&nbsp;
+      <a href="https://github.com/hak553/Mohammad-Academy/tree/main/Simple%20Calculator" target="_blank">
+        <img src="https://img.shields.io/badge/Simple Calculator-18181B?style=for-the-badge&logo=acode&logoColor=red" alt="Simple Calculator" />
+      </a>
+      &nbsp;&nbsp;
       <a href="رابط_الملف_الخاص_بالدرس_في_جيت_هاب" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
