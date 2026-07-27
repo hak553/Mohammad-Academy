@@ -45,14 +45,30 @@
   <tr>
     <td align="center">
       <a href="https://youtu.be/3sz67580TRY?si=JNsL39fiFh6rCoNa" target="_blank">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg" width="100%" alt="المتغيرات في C#">
+        <img src="https://img.youtube.com/vi/3sz67580TRY/maxresdefault.jpg" width="100%" alt="المتغيرات في C#">
       </a>
     </td>
     <td>
       <h3>الدرس الاول: المتغيرات وكتابة اول كود برمجي</h3>
-      <p>شرح مفصل لطريقة تعريف المتغيرات (Variables) والتعامل مع أنواع البيانات المختلفة (Data Types) في الذاكرة.</p>
+      <p>شرح مفصل لطريقة تعريف المتغيرات وكتابة اول كود برمجي النا.</p>
       <br>
-      <a href="رابط_فيديو_اليوتيوب_هنا" target="_blank">
+      <a href="https://youtu.be/3sz67580TRY?si=JNsL39fiFh6rCoNa" target="_blank">
+        <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" />
+      </a>
+  <!-- نهاية الدرس الثاني -->
+
+<!-- بداية الدرس الثالث-->
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/9r7Nv59UwPs?si=e9PTjrKYYwSx-D6j" target="_blank">
+        <img src="https://img.youtube.com/vi/9r7Nv59UwPs/maxresdefault.jpg" width="100%" alt="المتغيرات في C#">
+      </a>
+    </td>
+    <td>
+      <h3>الدرس الثالث: C Sharp | فهم المتغيرات واستقبال البيانات</h3>
+      <p>في هذا الدرس الأساسي من دورة تعلم لغة C#، سنتعرف على مفهوم المتغيرات (Variables) وكيفية التعامل معها برمجياً لإنشاء تطبيقات تفاعلية. نبدأ بشرح مبسط يشبه المتغيرات بـ "الصناديق" داخل مصنع (الكومبايلر)، لتبسيط فكرة تخزين البيانات في الذاكرة.</p>
+      <br>
+      <a href="https://youtu.be/9r7Nv59UwPs?si=e9PTjrKYYwSx-D6j" target="_blank">
         <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" />
       </a>
       &nbsp;&nbsp;
@@ -61,8 +77,7 @@
       </a>
     </td>
   </tr>
-  <!-- نهاية الدرس الثاني -->
-
+  <!-- نهاية الدرس الثالث -->
 </table>
 
 <br><hr><br>
