@@ -72,6 +72,10 @@
       <a href="https://youtu.be/3sz67580TRY?si=JNsL39fiFh6rCoNa" target="_blank">
         <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" />
       </a>
+       &nbsp;&nbsp;
+      <a href="https://github.com/hak553/Mohammad-Academy/tree/main/Lesson01" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
   <!-- نهاية الدرس الثاني -->
 
 <!-- بداية الدرس الثالث-->
