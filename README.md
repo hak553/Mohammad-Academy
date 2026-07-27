@@ -93,7 +93,7 @@
         <img src="https://img.shields.io/badge/Simple Calculator-18181B?style=for-the-badge&logo=acode&logoColor=red" alt="Simple Calculator" />
       </a>
       &nbsp;&nbsp;
-      <a href="رابط_الملف_الخاص_بالدرس_في_جيت_هاب" target="_blank">
+      <a href="https://github.com/hak553/Mohammad-Academy/tree/main/Lesson02" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
     </td>
