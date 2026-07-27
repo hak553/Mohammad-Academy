@@ -36,7 +36,24 @@
       <a href="https://youtu.be/9130YuQtBgQ?si=4dO7ib_UO0XziM-B" target="_blank">
         <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" />
       </a>
-
+ <br><br>
+      <b>روابط تحميل الأدوات (Apps Links):</b><br><br>
+      <!-- روابط التطبيقات -->
+      <a href="https://visualstudio.microsoft.com/downloads/" target="_blank">
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+      </a>
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      </a>
+      <a href="https://dotnet.microsoft.com/en-us/download" target="_blank">
+        <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+      </a>
+      <a href="https://play.google.com/store/apps/details?id=com.radinc.csharpshell&hl=en_US" target="_blank">
+        <img src="https://img.shields.io/badge/Android_App-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      </a>
+      <a href="https://apps.apple.com/us/app/c-programming-compiler/id1451066693" target="_blank">
+        <img src="https://img.shields.io/badge/iOS_App-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+      </a>
     
   </tr>
   <!-- نهاية الدرس الأول -->
@@ -81,7 +98,8 @@
       </a>
     </td>
   </tr>
-  <!-- نهاية الدرس الثالث -->
+
+  <!-- بداية الدرس الأول: تجهيز بيئة العرس الثالث -->
 </table>
 
 <br><hr><br>
