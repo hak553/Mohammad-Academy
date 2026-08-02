@@ -107,7 +107,28 @@
 </table>
 
 <br><hr><br>
+<!-- بداية خريطة المستودع -->
+## 🗂️ هيكل المستودع (Repository Structure)
 
-<div align="center">
-  <p><b>Happy Coding!</b><img width="3%" src="https://github.com/hak553/photoToProfile/blob/main/code1.png" alt="Code" align="center" /> </p>
-</div>
+<details>
+<summary><b>اضغط هنا لعرض خريطة الملفات 🗺️</b></summary>
+<br>
+
+```text
+Mohammad-Academy/
+│
+├── 📁 Lesson01/                        # كل ما يخص الفديو 1
+│   ├── 📄 Quiz 1.cs                    # هذا جواب التحدي الاول
+│   ├── 📄 Quiz 2.cs                    # هذا جواب التحدي الثاني
+│   └── 📄 Quiz 3.cs                    # هذا جواب التحدي الثالث
+│ 
+├── 📁 Lesson02/                        # كل ما يخص الفديو 2
+│   ├── 📄 Quiz 1.cs                    # هذا جواب التحدي الاول
+│   └── 📄 Quiz 2.cs                    # هذا جواب التحدي الثاني
+│
+├── 📁 Simple Calculator/               # كل ما يخص تطبيق الالة الحاسبة الذي تم شرحه
+│   ├── 📄 README.md                    # هذا شرح بسيط على تطبيق الالة الحاسبة
+│   └── 📄 SimpleApplication.md         # هذا برنامج الالة الحاسبة كل الكود المكتوب هنا
+│
+└── 📄 README.md                        # هنا صفحة التصميم بالكامل
+<br><hr><br>
