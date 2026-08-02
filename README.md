@@ -131,4 +131,3 @@ Mohammad-Academy/
 │   └── 📄 SimpleApplication.md         # هذا برنامج الالة الحاسبة كل الكود المكتوب هنا
 │
 └── 📄 README.md                        # هنا صفحة التصميم بالكامل
-<br><hr><br>
