@@ -6,7 +6,7 @@ namespace course
     {
         static void Main(string[] args)
         {
-            ///* Challange 1 
+            ///* Challange 1  
             // اصنع برنامج
             // يطلب من المستخدم رقمين وبعدها يعمل على هذه الارقام
             // كل العمليات الرياضية
