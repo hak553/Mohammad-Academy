@@ -23,7 +23,6 @@
     <!-- عمود صورة الفيديو -->
     <td align="center">
       <a href="https://youtu.be/9130YuQtBgQ?si=4dO7ib_UO0XziM-B" target="_blank">
-        <!-- يمكنك استخدام رابط صورة مصغرة من اليوتيوب مباشرة عبر وضع ID الفيديو بدل VIDEO_ID_HERE -->
         <img src="https://img.youtube.com/vi/9130YuQtBgQ/maxresdefault.jpg" width="100%" alt="أساسيات البرمجة بلغة C#">
       </a>
     </td>
@@ -54,7 +53,7 @@
       <a href="https://apps.apple.com/us/app/c-programming-compiler/id1451066693" target="_blank">
         <img src="https://img.shields.io/badge/iOS_App-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
       </a>
-    
+    </td>
   </tr>
   <!-- نهاية الدرس الأول -->
 
@@ -76,9 +75,11 @@
       <a href="https://github.com/hak553/Mohammad-Academy/tree/main/Lesson01" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
+    </td>
+  </tr>
   <!-- نهاية الدرس الثاني -->
 
-<!-- بداية الدرس الثالث-->
+  <!-- بداية الدرس الثالث-->
   <tr>
     <td align="center">
       <a href="https://youtu.be/9r7Nv59UwPs?si=e9PTjrKYYwSx-D6j" target="_blank">
@@ -102,12 +103,34 @@
       </a>
     </td>
   </tr>
+  <!-- نهاية الدرس الثالث -->
 
-  <!-- بداية الدرس الأول: تجهيز بيئة العرس الثالث -->
+  <!-- بداية الدرس الرابع -->
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/86ULvXaHuEg" target="_blank">
+        <img src="https://img.youtube.com/vi/86ULvXaHuEg/maxresdefault.jpg" width="100%" alt="العمليات الرياضية بالبرمجة">
+      </a>
+    </td>
+    <td>
+      <h3>الدرس الرابع: C Sharp | #3 العمليات الرياضية بالبرمجة</h3>
+      <p>في هذا الفيديو نشرح العمليات الرياضية الأساسية (الجمع، الطرح، الضرب، القسمة، وباقي القسمة Modulus). ونتعرف على كيفية استخدامها برمجياً مع المتغيرات، بالإضافة إلى تطبيق عملي وممتع لبرمجة حاسبة تحسب العمر.</p>
+      <br>
+      <a href="https://youtu.be/86ULvXaHuEg" target="_blank">
+        <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/hak553/Mohammad-Academy/tree/main/Lesson03" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+    </td>
+  </tr>
+  <!-- نهاية الدرس الرابع -->
+
 </table>
 
 <br><hr><br>
-<!-- بداية خريطة المستودع -->
+
 ## 🗂️ هيكل المستودع (Repository Structure)
 
 <details>
@@ -125,6 +148,11 @@ Mohammad-Academy/
 ├── 📁 Lesson02/                        # كل ما يخص الفديو 2
 │   ├── 📄 Quiz 1.cs                    # هذا جواب التحدي الاول
 │   └── 📄 Quiz 2.cs                    # هذا جواب التحدي الثاني
+│
+├── 📁 Lesson03/                        # كل ما يخص الفديو الخاص بالعمليات الرياضية
+│   ├── 📄 MathOperations.cs            # ملف يحتوي على كل العمليات الرياضية بالثلاث طرق التي تم شرحها
+│   ├── 📄 AgeCalculator.cs             # تطبيق حساب العمر الذي تم شرحه
+│   └── 📄 Quiz.cs                      # جواب التحدي الخاص بالعمليات الرياضية
 │
 ├── 📁 Simple Calculator/               # كل ما يخص تطبيق الالة الحاسبة الذي تم شرحه
 │   ├── 📄 README.md                    # هذا شرح بسيط على تطبيق الالة الحاسبة
