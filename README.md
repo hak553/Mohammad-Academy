@@ -71,7 +71,7 @@
       <a href="https://youtu.be/3sz67580TRY?si=JNsL39fiFh6rCoNa" target="_blank">
         <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" />
       </a>
-       &nbsp;&nbsp;
+        &nbsp;&nbsp;
       <a href="https://github.com/hak553/Mohammad-Academy/tree/main/Lesson01" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
@@ -127,6 +127,28 @@
   </tr>
   <!-- نهاية الدرس الرابع -->
 
+  <!-- بداية الدرس الخامس (الجديد) -->
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/MsNT1k2hIQM" target="_blank">
+        <img src="https://img.youtube.com/vi/MsNT1k2hIQM/maxresdefault.jpg" width="100%" alt="if Statement السر وراء ذكاء الألعاب">
+      </a>
+    </td>
+    <td>
+      <h3>الدرس الخامس: C Sharp | #4 if Statement السر وراء ذكاء الألعاب</h3>
+      <p>في هذا الفيديو نشرح قاعدة الشروط (if Statement) وكيفية استخدامها في اتخاذ القرارات داخل البرامج، بالإضافة إلى تطبيق عملي لتحدي اختيار الملابس حسب حالة الطقس ونظام قياس صحة اللاعب.</p>
+      <br>
+      <a href="https://youtu.be/MsNT1k2hIQM" target="_blank">
+        <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/hak553/Mohammad-Academy/tree/main/Lesson04" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+    </td>
+  </tr>
+  <!-- نهاية الدرس الخامس -->
+
 </table>
 
 <br><hr><br>
@@ -154,8 +176,16 @@ Mohammad-Academy/
 │   ├── 📄 AgeCalculator.cs             # تطبيق حساب العمر الذي تم شرحه
 │   └── 📄 Quiz.cs                      # جواب التحدي الخاص بالعمليات الرياضية
 │
+├── 📁 Lesson04/                        # كل ما يخص الفديو الخاص بالجمل الشرطية (if Statement)
+│   ├── 📁 Challange/                   # مجلد يحتوي على حلول تحدي الطقس
+│   │   ├── 📄 Weather Code 1.cs        # حل التحدي بالطريقة الأولى
+│   │   └── 📄 Weather Code 2.cs        # حل التحدي بالطريقة الثانية
+│   ├── 📄 Game.cs                      # تطبيق نظام صحة اللاعب (Health System)
+│   └── 📄 Syntax.cs                    # الهيكلية الأساسية للـ if statement
+│
 ├── 📁 Simple Calculator/               # كل ما يخص تطبيق الالة الحاسبة الذي تم شرحه
 │   ├── 📄 README.md                    # هذا شرح بسيط على تطبيق الالة الحاسبة
 │   └── 📄 SimpleApplication.md         # هذا برنامج الالة الحاسبة كل الكود المكتوب هنا
 │
+├── 📄 Lesson03.cs                      # الكود الإضافي للدرس الثالث
 └── 📄 README.md                        # هنا صفحة التصميم بالكامل
